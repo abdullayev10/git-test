@@ -10,8 +10,8 @@ ul {
     list-style: none;
 }
 
-.haeder {
-    background-color: blue;
+.header {
+    background-color: indigo;
     height: 100vh;
 }
 
